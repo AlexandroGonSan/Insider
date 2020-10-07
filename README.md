@@ -1,6 +1,8 @@
 # Insider
 Real-time information.
 # Chrome
+## Done
+### Message original
 O modal no site https://community.unix.com/
 para fazer Sign Up no campo Password
 não recebe a sugestão de palavra passe do Chrome.
@@ -13,3 +15,6 @@ Existe um backup do código fonte no github
 na url abaixo
 https://github.com/AlexandroGonSan/Insider/blob/main/src/2020/community.unix.com/7%20Oct%202020%2015:54:22%20UTC.html
 link curto: https://cutt.ly/NgeBByw
+### Note
+Open the mouse menu by clicking on the
+input not available in private mode
